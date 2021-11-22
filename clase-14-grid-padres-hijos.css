@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: inline-block;
+    background-color: red;
+    border: 1px solid black;
+    width: 100vw;
+    height: 180px;
+}
+.item {
+    display: inline-block;
+    background-color: salmon;
+    width: 50%;
+    height: 50%;
+    border: 1px solid black;
+}
+.sub-item {
+    display: inline-block;
+    width: 50%;
+    height: 50%;
+    border: 1px dashed darkblue;
+    background-color: blueviolet;
+}
